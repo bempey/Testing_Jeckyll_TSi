@@ -4,10 +4,10 @@
     <title>TSi - Technical Solutions Inc.</title>
     <description>Canadian Smart Lighting is your premier provider of comfort and security enhancing yard lighting through the use of smart design and smart features.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2019 22:35:55 -0700</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2019 22:35:55 -0700</lastBuildDate>
+    <link>https://bempey.github.io/Testing_Jeckyll_TSi/</link>
+    <atom:link href="https://bempey.github.io/Testing_Jeckyll_TSi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Aug 2019 22:46:48 -0700</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2019 22:46:48 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -16,9 +16,9 @@
 It should not be on the site. 
 Its using the defaults for layout style (for a post)&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 22:35:55 -0700</pubDate>
-        <link>http://yourdomain.com/2019/08/01/This-is-a-draft.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2019/08/01/This-is-a-draft.html</guid>
+        <pubDate>Thu, 01 Aug 2019 22:46:48 -0700</pubDate>
+        <link>https://bempey.github.io/Testing_Jeckyll_TSi/2019/08/01/This-is-a-draft.html</link>
+        <guid isPermaLink="true">https://bempey.github.io/Testing_Jeckyll_TSi/2019/08/01/This-is-a-draft.html</guid>
         
         
       </item>
@@ -41,8 +41,8 @@ Its using the defaults for layout style (for a post)&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 31 Jul 2019 07:17:05 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2019/07/31/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2019/07/31/welcome-to-jekyll.html</guid>
+        <link>https://bempey.github.io/Testing_Jeckyll_TSi/jekyll/update/2019/07/31/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://bempey.github.io/Testing_Jeckyll_TSi/jekyll/update/2019/07/31/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
